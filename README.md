@@ -1,32 +1,29 @@
 # 😎About Me
 
-I am a systems engineer working as a fullstack software developer based in Colombia.
-Passionate about learning every day and facing new challenges.
+I'm a systems engineer,
+Passionate about software development and the technological boom.
 
 ## 💻Tech Stack
 
 ### Languages
 - Java
-- Kotlin
-- JavaScript
 - C#
+- Typescript
 - SQL
 
 ### Frameworks
-- Spring Boot with Java
-- Spring Boot with Kotlin
 - Spring Framework
-- Android Studio with Java
 - Angular
 - .NET Framework
+- Next.js
+- Nest.js
 
 ### Databases
 #### Relational
-- SQL
+- SQL SERVER
 - ORACLE
 - PostgreSQL
 - MySQL
 
 #### Non-relational
 - MongoDB
-- Firebase
