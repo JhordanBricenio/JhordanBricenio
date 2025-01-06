@@ -1,7 +1,7 @@
 # 😎About Me
 
 I'm a systems engineer,
-Passionate about software development and the technological boom.
+passionate about software development and the technological boom.
 
 ## 💻Tech Stack
 
