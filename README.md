@@ -14,14 +14,12 @@ passionate about software development and the technological boom.
 ### Frameworks
 - Spring Framework
 - Angular
-- .NET Framework
 - Next.js
 - Nest.js
 
 ### Databases
 #### Relational
 - SQL SERVER
-- ORACLE
 - PostgreSQL
 - MySQL
 
